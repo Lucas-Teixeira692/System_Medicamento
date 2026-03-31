@@ -1,0 +1,16 @@
+[
+    {
+        "id": 1,
+        "username": "admin",
+        "password": "$2y$12$o8Qhd9Ib1gnR9Et5.2I8denPYYbEK9nz9kB8wQCtZ4itTVGoN7XmK",
+        "name": "Administrador",
+        "role": "Gestor"
+    },
+    {
+        "id": 2,
+        "username": "farmacia",
+        "password": "$2y$12$NxNjVWpwnZvWvuModpwwxuvemA4xvenDKIH7ezYMw1sjzU7423J86",
+        "name": "Equipe da Unidade",
+        "role": "Atendente"
+    }
+]
